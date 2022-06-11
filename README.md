@@ -21,7 +21,7 @@ Each Entity can able to perform POST(), GET(), DELETE() and have tested through 
 By defaulty it will show https://localhost:44350/api/values , But we can change to our requirement
 
 Actor : POST Method : https://localhost:44350/api/Actors
-        get method :  https://localhost:44350/api/Actors/1
+        get method :  https://localhost:44350/api/Actors/2
 
 
 
