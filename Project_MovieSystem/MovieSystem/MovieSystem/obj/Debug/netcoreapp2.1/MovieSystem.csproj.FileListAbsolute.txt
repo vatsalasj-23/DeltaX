@@ -1,0 +1,13 @@
+C:\Projects\MovieSystem\MovieSystem\bin\Debug\netcoreapp2.1\MovieSystem.deps.json
+C:\Projects\MovieSystem\MovieSystem\bin\Debug\netcoreapp2.1\MovieSystem.runtimeconfig.json
+C:\Projects\MovieSystem\MovieSystem\bin\Debug\netcoreapp2.1\MovieSystem.runtimeconfig.dev.json
+C:\Projects\MovieSystem\MovieSystem\bin\Debug\netcoreapp2.1\MovieSystem.dll
+C:\Projects\MovieSystem\MovieSystem\bin\Debug\netcoreapp2.1\MovieSystem.pdb
+C:\Projects\MovieSystem\MovieSystem\obj\Debug\netcoreapp2.1\MovieSystem.csproj.CoreCompileInputs.cache
+C:\Projects\MovieSystem\MovieSystem\obj\Debug\netcoreapp2.1\MovieSystem.RazorAssemblyInfo.cache
+C:\Projects\MovieSystem\MovieSystem\obj\Debug\netcoreapp2.1\MovieSystem.RazorAssemblyInfo.cs
+C:\Projects\MovieSystem\MovieSystem\obj\Debug\netcoreapp2.1\MovieSystem.AssemblyInfoInputs.cache
+C:\Projects\MovieSystem\MovieSystem\obj\Debug\netcoreapp2.1\MovieSystem.AssemblyInfo.cs
+C:\Projects\MovieSystem\MovieSystem\obj\Debug\netcoreapp2.1\MovieSystem.RazorTargetAssemblyInfo.cache
+C:\Projects\MovieSystem\MovieSystem\obj\Debug\netcoreapp2.1\MovieSystem.dll
+C:\Projects\MovieSystem\MovieSystem\obj\Debug\netcoreapp2.1\MovieSystem.pdb
